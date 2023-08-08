@@ -2,13 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 body {
   width: 100%;
   min-width: 1519px;
+  min-width: 1520px;
   background-color: #000;
 }
 body ul {
@@ -775,4 +775,4 @@ body footer .wrap span a {
 }
 body footer .wrap span a:hover {
   text-decoration: underline;
-} /*# sourceMappingURL=infinizai.css.map */
+}/*# sourceMappingURL=infinizai.css.map */
